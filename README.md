@@ -1,0 +1,2 @@
+This project has been created by Barnasree Goswami as a part of the Bootstrap Assignment.
+The goal is to use different components like Title, Navbar, Header, Footer, Hero Unit, Rows and Columns in this Responsive webpage.
