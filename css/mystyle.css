@@ -1,0 +1,110 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #5e4485;
+    color: #fff;
+    padding: 1% 0;
+    font-size: 1.2em;
+    font-family: 'Merienda';
+    border: 0;
+}
+
+.bg-dark{
+    background-color: rgb(19, 19, 19) !important;
+    border-bottom: 5px solid goldenrod;
+}
+.navbar-brand img{
+    height: 10vh;
+    width: 10vw;
+}
+.navbar-nav{
+    margin-right: 10vw;
+}
+.nav-item.active a.nav-link{
+    color: peachpuff !important;
+    border-bottom: 1px solid coral;
+}
+.nav-item a.nav-link:hover{
+    color: lavender !important;
+    border-bottom: 1px solid coral;
+}
+
+.carousel-font{
+    color: bisque;
+    font-family: 'Monoton';
+    font-size: 2em;
+}
+
+.btn-primary{
+    color: burlywood;
+    background-color: darkcyan;
+    font-family: 'Tangerine';
+    font-size: 2em;
+    font-weight: 1000;
+}
+
+.jumbotron-font{
+    color: salmon;
+    font-family: 'Cabin Sketch';
+    font-size: 3.5em;
+}
+
+.product-font{
+    color: chocolate;
+    font-family: 'Rock Salt';
+    font-size: 2.5em;
+}
+
+.product-body{
+    font-family: 'Nanum Pen Script';
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.description-font{
+    font-family: 'Sue Ellen Francisco';
+    font-weight: bolder;
+    color: darkgoldenrod;
+    font-size: 2em;
+}
+
+.description-body{
+    font-family: 'Sue Ellen Francisco';
+    color: goldenrod;
+    font-size: 2em;
+}
+
+.hidden-link-font{
+    font-family: 'Ceviche One';
+    font-size: 2em;
+    color: cornflowerblue;
+}
+
+.hidden-content-font{
+    font-family: 'Allerta Stencil';
+    font-size: .6em;
+    color: cornflowerblue;
+}
+
+.footer-font{
+    font-family: 'Calligraffitti';
+    font-size: 1.5em;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+footer{
+    margin: 5em purple;
+    background-color: azure;
+    color: cornflowerblue !important;
+}
+footer a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+footer a i{
+    height: 5vh;
+    width: 5vw;
+    margin: 0%;
+}
